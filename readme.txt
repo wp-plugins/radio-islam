@@ -16,6 +16,9 @@ Plugin website untuk platform wordpress ini adalah versi plugin widget resmi dar
 
 Menampilakn daftar radio streaming Islam tepercaya di Indonesia yang menyandarkan dakwahnya berdasar al-Qur'an, as-Sunnah, seperti yang dipahami oleh para shahabat radhiyallaahu anhum.
 
+= Demo =
+Demo silahkan kunjungi [Homepage RII](http://radioislam.or.id/blog/)
+
 = Penting =
 Plugin widget ini masih jauh dari sempurna, kami sangat mengharap masukan Anda demi pengembangan aplikasi android RII dan plugin widget RII ini  melalui email: oasemedia.dev@gmail.com
 
@@ -53,7 +56,7 @@ Plugin widget ini masih jauh dari sempurna, kami sangat mengharap masukan Anda d
 
 == Frequently Asked Questions ==
 
-* Untuk pertanyaan silahkan kunjungi [hompage RII](http://radioislam.or.id/)
+* Untuk pertanyaan silahkan kunjungi [Hompage RII](http://radioislam.or.id/)
 * Atau kirimkan email ke oasemedia.dev@gmail.com
 
 == Screenshots ==
